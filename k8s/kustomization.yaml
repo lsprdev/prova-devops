@@ -9,4 +9,4 @@ images:
   newTag: latest
 - name: prova-devops
   newName: ogabrielpereiraa/prova-devops
-  newTag: latest
+  newTag: ff99de25d085f01fbc0b74eb1e5993ea31ee145d
